@@ -8,7 +8,7 @@ thunar:
             it. Verifiable by the installed binary + package and by the keybinding drop-in
             whose content wires the $mod+e launcher line.
         require:
-            - '@github.com/opencharly/pod-sway:v2026.272.1053'
+            - '@github.com/opencharly/pod-sway:v2026.274.0642'
         distro:
             fedora:
                 package:
